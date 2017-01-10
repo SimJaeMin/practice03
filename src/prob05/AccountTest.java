@@ -1,5 +1,5 @@
 package prob05;
-
+//메인건들지말기 에러를고치기
 public class AccountTest {
 
 	public static void main(String[] args) {
